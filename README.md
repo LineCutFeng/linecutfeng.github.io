@@ -4,7 +4,7 @@
 
 ## 样式预览
 
-![](http://ww4.sinaimg.cn/large/005Xtdi2jw1f9pvpcwm0rj313y0maade.jpg)
+![](https://blog-pic-1256190849.cos.ap-beijing.myqcloud.com/%E6%80%BB%E8%A7%88readme/%E6%80%BB%E8%A7%88.jpg)
 
 ### [点击这里查看实际部署效果](http://www.gcssloop.com/)
 
